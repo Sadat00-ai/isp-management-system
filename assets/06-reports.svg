@@ -27,6 +27,6 @@
 <text x="387" y="256" fill="#c9d1d9" textLength="234">  1                       </text>
 <text x="45" y="275" fill="#c9d1d9" textLength="126"> Resolved     </text>
 <text x="387" y="275" fill="#c9d1d9" textLength="234">  1                       </text>
-<text x="36" y="313" fill="#8a8a8a" textLength="81">Total tickets: </text>
+<text x="36" y="313" fill="#8a8a8a" textLength="135">Total tickets: </text>
 <text x="171" y="313" fill="#c9d1d9" font-weight="700" textLength="9">3</text>
 </g></svg>
