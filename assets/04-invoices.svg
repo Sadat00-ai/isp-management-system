@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738" height="408" viewBox="0 0 738 408" role="img" aria-label="ISP Management System">
+<rect width="738" height="408" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 12a12 12 0 0 1 12-12h714a12 12 0 0 1 12 12v26H0z" fill="#1e2228"/>
+<circle cx="20" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="19" r="6" fill="#27c93f"/>
+<text x="369" y="24" fill="#8b949e" font-size="13" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif">ISP Management System</text>
+<path fill="#00afff" d="M40 61h1v96h-1zM40 61h14v1h-14zM40 156h460v1h-460zM324 61h176v1h-176zM499 61h1v96h-1z"/>
+<path fill="#808080" d="M40 232h1v134h-1zM40 232h676v1h-676zM40 270h676v1h-676zM40 365h676v1h-676zM85 232h1v134h-1zM229 232h1v134h-1zM373 232h1v134h-1zM499 232h1v134h-1zM616 232h1v134h-1zM715 232h1v134h-1z"/>
+<g font-family="DejaVu Sans Mono,Cascadia Mono,Consolas,Menlo,Courier New,monospace" font-size="15" xml:space="preserve">
+<text x="63" y="66" fill="#00d7ff" font-weight="700" textLength="252">BILLING / INVOICE MANAGEMENT</text>
+<text x="63" y="85" fill="#00d7ff" font-weight="700" textLength="27">[1]</text>
+<text x="90" y="85" fill="#c9d1d9" textLength="405">  Generate invoice                           </text>
+<text x="63" y="104" fill="#00d7ff" font-weight="700" textLength="27">[2]</text>
+<text x="90" y="104" fill="#c9d1d9" textLength="405">  View all invoices                          </text>
+<text x="63" y="123" fill="#00d7ff" font-weight="700" textLength="27">[3]</text>
+<text x="90" y="123" fill="#c9d1d9" textLength="405">  View unpaid invoices                       </text>
+<text x="63" y="142" fill="#ffaf00" font-weight="700" textLength="27">[0]</text>
+<text x="90" y="142" fill="#c9d1d9" textLength="405">  Back to main menu                          </text>
+<text x="36" y="180" fill="#00d7ff" font-weight="700" textLength="9">&gt;</text>
+<text x="45" y="180" fill="#c9d1d9" textLength="81"> Choice: </text>
+<text x="126" y="180" fill="#c9d1d9" font-weight="700" textLength="9">2</text>
+<text x="36" y="218" fill="#00d7ff" font-weight="700" textLength="108">All invoices</text>
+<text x="54" y="256" fill="#00d7ff" font-weight="700" textLength="18">ID</text>
+<text x="99" y="256" fill="#00d7ff" font-weight="700" textLength="72">Customer</text>
+<text x="243" y="256" fill="#00d7ff" font-weight="700" textLength="45">Month</text>
+<text x="387" y="256" fill="#00d7ff" font-weight="700" textLength="99">Amount (Tk)</text>
+<text x="513" y="256" fill="#00d7ff" font-weight="700" textLength="27">Due</text>
+<text x="630" y="256" fill="#00d7ff" font-weight="700" textLength="54">Status</text>
+<text x="45" y="294" fill="#c9d1d9" textLength="36"> 1  </text>
+<text x="90" y="294" fill="#c9d1d9" textLength="135"> Ayesha Rahman </text>
+<text x="234" y="294" fill="#c9d1d9" textLength="135"> October 2026  </text>
+<text x="378" y="294" fill="#c9d1d9" textLength="117">      900.00 </text>
+<text x="504" y="294" fill="#c9d1d9" textLength="108"> 2026-10-10 </text>
+<text x="630" y="294" fill="#00d787" font-weight="700" textLength="36">PAID</text>
+<text x="45" y="313" fill="#c9d1d9" textLength="36"> 2  </text>
+<text x="90" y="313" fill="#c9d1d9" textLength="135"> Tanvir Hasan  </text>
+<text x="234" y="313" fill="#c9d1d9" textLength="135"> November 2026 </text>
+<text x="378" y="313" fill="#c9d1d9" textLength="117">      600.00 </text>
+<text x="504" y="313" fill="#c9d1d9" textLength="108"> 2026-11-20 </text>
+<text x="630" y="313" fill="#ff5f5f" font-weight="700" textLength="54">UNPAID</text>
+<text x="45" y="332" fill="#c9d1d9" textLength="36"> 3  </text>
+<text x="90" y="332" fill="#c9d1d9" textLength="135"> Nusrat Jahan  </text>
+<text x="234" y="332" fill="#c9d1d9" textLength="135"> November 2026 </text>
+<text x="378" y="332" fill="#c9d1d9" textLength="117">    1,300.00 </text>
+<text x="504" y="332" fill="#c9d1d9" textLength="108"> 2026-11-20 </text>
+<text x="630" y="332" fill="#ff5f5f" font-weight="700" textLength="54">UNPAID</text>
+<text x="45" y="351" fill="#c9d1d9" textLength="36"> 4  </text>
+<text x="90" y="351" fill="#c9d1d9" textLength="135"> Mehedi Islam  </text>
+<text x="234" y="351" fill="#c9d1d9" textLength="135"> November 2026 </text>
+<text x="378" y="351" fill="#c9d1d9" textLength="117">      900.00 </text>
+<text x="504" y="351" fill="#c9d1d9" textLength="108"> 2026-11-25 </text>
+<text x="630" y="351" fill="#ff5f5f" font-weight="700" textLength="54">UNPAID</text>
+<text x="36" y="389" fill="#8a8a8a" textLength="81">4 records</text>
+</g></svg>

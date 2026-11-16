@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738" height="427" viewBox="0 0 738 427" role="img" aria-label="ISP Management System">
+<rect width="738" height="427" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 12a12 12 0 0 1 12-12h714a12 12 0 0 1 12 12v26H0z" fill="#1e2228"/>
+<circle cx="20" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="19" r="6" fill="#27c93f"/>
+<text x="369" y="24" fill="#8b949e" font-size="13" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif">ISP Management System</text>
+<path fill="#808080" d="M36 80h684v1h-684z"/>
+<path fill="#00afff" d="M40 118h1v58h-1zM40 213h1v172h-1zM40 213h14v1h-14zM40 118h154v1h-154zM40 175h154v1h-154zM40 384h460v1h-460zM153 213h347v1h-347zM193 118h1v58h-1zM211 118h1v58h-1zM211 118h154v1h-154zM211 175h154v1h-154zM364 118h1v58h-1zM382 118h1v58h-1zM382 118h154v1h-154zM382 175h154v1h-154zM499 213h1v172h-1zM535 118h1v58h-1zM553 118h1v58h-1zM553 118h154v1h-154zM553 175h154v1h-154zM706 118h1v58h-1z"/>
+<g font-family="DejaVu Sans Mono,Cascadia Mono,Consolas,Menlo,Courier New,monospace" font-size="15" xml:space="preserve">
+<text x="36" y="66" fill="#c9d1d9" font-weight="700" textLength="189">ISP MANAGEMENT SYSTEM</text>
+<text x="486" y="66" fill="#8a8a8a" textLength="234">Admin  |  Sun, 15 Nov 2026</text>
+<text x="54" y="142" fill="#8a8a8a" textLength="81">CUSTOMERS</text>
+<text x="225" y="142" fill="#8a8a8a" textLength="108">ACTIVE LINES</text>
+<text x="396" y="142" fill="#8a8a8a" textLength="108">UNPAID BILLS</text>
+<text x="567" y="142" fill="#8a8a8a" textLength="108">OPEN TICKETS</text>
+<text x="54" y="161" fill="#00d7ff" font-weight="700" textLength="9">5</text>
+<text x="225" y="161" fill="#00d787" font-weight="700" textLength="9">4</text>
+<text x="396" y="161" fill="#ffaf00" font-weight="700" textLength="9">3</text>
+<text x="567" y="161" fill="#ff5f5f" font-weight="700" textLength="9">2</text>
+<text x="63" y="218" fill="#00d7ff" font-weight="700" textLength="81">MAIN MENU</text>
+<text x="63" y="237" fill="#00d7ff" font-weight="700" textLength="27">[1]</text>
+<text x="90" y="237" fill="#c9d1d9" textLength="405">  Customer Management                        </text>
+<text x="63" y="256" fill="#00d7ff" font-weight="700" textLength="27">[2]</text>
+<text x="90" y="256" fill="#c9d1d9" textLength="405">  Internet Plan Management                   </text>
+<text x="63" y="275" fill="#00d7ff" font-weight="700" textLength="27">[3]</text>
+<text x="90" y="275" fill="#c9d1d9" textLength="405">  Connection / Subscription Management       </text>
+<text x="63" y="294" fill="#00d7ff" font-weight="700" textLength="27">[4]</text>
+<text x="90" y="294" fill="#c9d1d9" textLength="405">  Billing and Invoice Management             </text>
+<text x="63" y="313" fill="#00d7ff" font-weight="700" textLength="27">[5]</text>
+<text x="90" y="313" fill="#c9d1d9" textLength="405">  Payment Management                         </text>
+<text x="63" y="332" fill="#00d7ff" font-weight="700" textLength="27">[6]</text>
+<text x="90" y="332" fill="#c9d1d9" textLength="405">  Complaint / Support Management             </text>
+<text x="63" y="351" fill="#00d7ff" font-weight="700" textLength="27">[7]</text>
+<text x="90" y="351" fill="#c9d1d9" textLength="405">  Reports                                    </text>
+<text x="63" y="370" fill="#ffaf00" font-weight="700" textLength="27">[0]</text>
+<text x="90" y="370" fill="#c9d1d9" textLength="405">  Save and Exit                              </text>
+<text x="36" y="408" fill="#00d7ff" font-weight="700" textLength="9">&gt;</text>
+<text x="45" y="408" fill="#c9d1d9" textLength="135"> Enter choice: </text>
+<text x="180" y="408" fill="#c9d1d9" font-weight="700" textLength="9">0</text>
+</g></svg>

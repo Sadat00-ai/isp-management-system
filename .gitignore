@@ -1,0 +1,20 @@
+# Java build output
+out/
+build/
+target/
+*.class
+
+# Runtime application data (may contain personal/customer data)
+isp-data.ser
+
+# IDE settings
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

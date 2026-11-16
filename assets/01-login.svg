@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="603" height="408" viewBox="0 0 603 408" role="img" aria-label="ISP Management System">
+<rect width="603" height="408" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 12a12 12 0 0 1 12-12h579a12 12 0 0 1 12 12v26H0z" fill="#1e2228"/>
+<circle cx="20" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="19" r="6" fill="#27c93f"/>
+<text x="301" y="24" fill="#8b949e" font-size="13" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif">ISP Management System</text>
+<path fill="#00ffff" d="M44.7 51.7h18.6v19.6h-18.6zM63 63h2.5v1h-2.5zM63 59h6.5v1h-6.5zM65 63.5h1v7.5h-1zM69 59.5h1v11.5h-1zM71.7 51.7h63.6v19.6h-63.6zM135 63h2.5v1h-2.5zM135 59h6.5v1h-6.5zM137 63.5h1v7.5h-1zM141 59.5h1v11.5h-1zM143.7 51.7h54.6v19.6h-54.6zM198 63h2.5v1h-2.5zM198 59h6.5v1h-6.5zM200 63.5h1v7.5h-1zM204 59.5h1v11.5h-1z"/>
+<path fill="#00d7ff" d="M44.7 70.7h18.6v19.6h-18.6zM65 71h1v19h-1zM69 71h1v19h-1zM71.7 70.7h18.6v19.6h-18.6zM92 78.5h1v11.5h-1zM92.5 78h45v1h-45zM96 82.5h1v7.5h-1zM96.5 82h45v1h-45zM137 71h1v7.5h-1zM141 71h1v11.5h-1zM143.7 70.7h18.6v19.6h-18.6zM164 78.5h1v11.5h-1zM164.5 78h24.5v1h-24.5zM168 82.5h1v7.5h-1zM168.5 82h20.5v1h-20.5zM188.7 70.7h18.6v19.6h-18.6zM207 82h2.5v1h-2.5zM207 78h6.5v1h-6.5zM209 82.5h1v7.5h-1zM213 78.5h1v11.5h-1z"/>
+<path fill="#00afff" d="M36 242h54v19h-54zM40 289h1v39h-1zM40 289h14v1h-14zM40 327h388v1h-388zM44.7 89.7h18.6v19.6h-18.6zM65 90h1v19h-1zM69 90h1v19h-1zM71.7 89.7h63.6v19.6h-63.6zM135 101h2.5v1h-2.5zM135 97h6.5v1h-6.5zM137 101.5h1v7.5h-1zM141 97.5h1v11.5h-1zM143.7 89.7h54.6v19.6h-54.6zM171 289h257v1h-257zM200 97.5h1v11.5h-1zM200.5 97h9v1h-9zM204 101.5h1v7.5h-1zM204.5 101h9v1h-9zM209 90h1v7.5h-1zM213 90h1v11.5h-1zM427 289h1v39h-1z"/>
+<path fill="#0087ff" d="M44.7 108.7h18.6v19.6h-18.6zM65 109h1v19h-1zM69 109h1v19h-1zM74 109h1v11.5h-1zM74.5 120h42.5v1h-42.5zM78 109h1v7.5h-1zM78.5 116h38.5v1h-38.5zM116.7 108.7h18.6v19.6h-18.6zM137 109h1v19h-1zM141 109h1v19h-1zM143.7 108.7h18.6v19.6h-18.6zM164 116.5h1v11.5h-1zM164.5 116h36v1h-36zM168 120.5h1v7.5h-1zM168.5 120h36v1h-36zM200 109h1v7.5h-1zM204 109h1v11.5h-1z"/>
+<path fill="#5f5fff" d="M44.7 127.7h18.6v19.6h-18.6zM65 128h1v19h-1zM69 128h1v19h-1zM71.7 127.7h63.6v19.6h-63.6zM137 128h1v19h-1zM141 128h1v19h-1zM143.7 127.7h18.6v19.6h-18.6zM164 128h1v19h-1zM168 128h1v19h-1z"/>
+<path fill="#875fff" d="M47 147h1v11.5h-1zM47.5 158h22v1h-22zM51 147h1v7.5h-1zM51.5 154h14v1h-14zM65 147h1v7.5h-1zM69 147h1v11.5h-1zM74 147h1v11.5h-1zM74.5 158h67v1h-67zM78 147h1v7.5h-1zM78.5 154h59v1h-59zM137 147h1v7.5h-1zM141 147h1v11.5h-1zM146 147h1v11.5h-1zM146.5 158h22v1h-22zM150 147h1v7.5h-1zM150.5 154h14v1h-14zM164 147h1v7.5h-1zM168 147h1v11.5h-1z"/>
+<path fill="#00d787" d="M36 375h36v19h-36z"/>
+<g font-family="DejaVu Sans Mono,Cascadia Mono,Consolas,Menlo,Courier New,monospace" font-size="15" xml:space="preserve">
+<text x="45" y="199" fill="#c9d1d9" font-weight="700" textLength="387">INTERNET SERVICE PROVIDER MANAGEMENT SYSTEM</text>
+<text x="18" y="218" fill="#00d7ff" textLength="360">   Reliable Connection. Better Tomorrow.</text>
+<text x="36" y="256" fill="#000000" textLength="54"> INFO </text>
+<text x="90" y="256" fill="#c9d1d9" textLength="495"> First launch: loading fictional demonstration records.</text>
+<text x="63" y="294" fill="#00d7ff" font-weight="700" textLength="99">ADMIN LOGIN</text>
+<text x="54" y="313" fill="#8a8a8a" textLength="252">Demo login: admin / admin123</text>
+<text x="36" y="351" fill="#00d7ff" font-weight="700" textLength="9">&gt;</text>
+<text x="45" y="351" fill="#c9d1d9" textLength="99"> Username: </text>
+<text x="144" y="351" fill="#c9d1d9" font-weight="700" textLength="45">admin</text>
+<text x="36" y="370" fill="#00d7ff" font-weight="700" textLength="9">&gt;</text>
+<text x="45" y="370" fill="#c9d1d9" textLength="99"> Password: </text>
+<text x="144" y="370" fill="#c9d1d9" font-weight="700" textLength="72">********</text>
+<text x="36" y="389" fill="#000000" textLength="36"> OK </text>
+<text x="72" y="389" fill="#c9d1d9" textLength="378"> Login successful. Welcome, administrator!</text>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="648" height="332" viewBox="0 0 648 332" role="img" aria-label="ISP Management System">
+<rect width="648" height="332" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 12a12 12 0 0 1 12-12h624a12 12 0 0 1 12 12v26H0z" fill="#1e2228"/>
+<circle cx="20" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="19" r="6" fill="#27c93f"/>
+<text x="324" y="24" fill="#8b949e" font-size="13" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif">ISP Management System</text>
+<path fill="#00afff" d="M40 61h1v96h-1zM40 213h1v77h-1zM40 61h14v1h-14zM40 213h14v1h-14zM40 156h586v1h-586zM40 289h586v1h-586zM198 61h428v1h-428zM198 213h428v1h-428zM625 61h1v96h-1zM625 213h1v77h-1z"/>
+<path fill="#00d787" d="M170.7 70.7h54.6v19.6h-54.6zM170.7 260.7h72.6v19.6h-72.6z"/>
+<path fill="#585858" fill-opacity="0.28" d="M225 71h162v19h-162zM243 223h144v57h-144zM333 90h54v19h-54z"/>
+<path fill="#ffaf00" d="M170.7 241.7h72.6v19.6h-72.6zM170.7 89.7h162.6v19.6h-162.6z"/>
+<path fill="#ff5f5f" d="M170.7 222.7h72.6v19.6h-72.6z"/>
+<g font-family="DejaVu Sans Mono,Cascadia Mono,Consolas,Menlo,Courier New,monospace" font-size="15" xml:space="preserve">
+<text x="63" y="66" fill="#00d7ff" font-weight="700" textLength="126">REVENUE REPORT</text>
+<text x="45" y="85" fill="#c9d1d9" textLength="126"> Collected    </text>
+<text x="387" y="85" fill="#c9d1d9" textLength="234">  Tk 900.00               </text>
+<text x="45" y="104" fill="#c9d1d9" textLength="126"> Outstanding  </text>
+<text x="387" y="104" fill="#c9d1d9" textLength="234">  Tk 2,800.00             </text>
+<text x="54" y="142" fill="#8a8a8a" textLength="153">Collection rate: </text>
+<text x="207" y="142" fill="#c9d1d9" font-weight="700" textLength="27">24%</text>
+<text x="36" y="180" fill="#8a8a8a" textLength="225">Total collected revenue: </text>
+<text x="261" y="180" fill="#c9d1d9" font-weight="700" textLength="81">Tk 900.00</text>
+<text x="63" y="218" fill="#00d7ff" font-weight="700" textLength="126">TICKET SUMMARY</text>
+<text x="45" y="237" fill="#c9d1d9" textLength="126"> Open         </text>
+<text x="387" y="237" fill="#c9d1d9" textLength="234">  1                       </text>
+<text x="45" y="256" fill="#c9d1d9" textLength="126"> In progress  </text>
+<text x="387" y="256" fill="#c9d1d9" textLength="234">  1                       </text>
+<text x="45" y="275" fill="#c9d1d9" textLength="126"> Resolved     </text>
+<text x="387" y="275" fill="#c9d1d9" textLength="234">  1                       </text>
+<text x="36" y="313" fill="#8a8a8a" textLength="81">Total tickets: </text>
+<text x="171" y="313" fill="#c9d1d9" font-weight="700" textLength="9">3</text>
+</g></svg>
